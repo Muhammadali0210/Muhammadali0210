@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am learning big SRM & ERP system making vie best architecture
+Now I am learning SRM & ERP system making vie best architecture
 
 
 ## 🌐 Socials:
